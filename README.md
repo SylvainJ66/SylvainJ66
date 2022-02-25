@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SylvainJ66
-- 👀 I’m interested in .application development
-- 🌱 I’m currently learning c#, TDD
+- 👀 I’m interested in .application development C#, Ruby
+- 🌱 I’m currently learning TDD
 - 💞️ I’m looking to collaborate on all projects I can do something and learn.
 
 <!---
