@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Sylvain
 
-## Senior .NET Developer | Medical Imaging & AI | Quantum Computing Enthusiast
+## Senior .NET Developer
 
 ### 🚀 What I Do
-I build scalable, production-ready systems with a focus on **medical imaging platforms**. Currently working on **AIHub**, an AI-powered DICOM processing pipeline.
+I build scalable, production-ready systems  Currently working on **AIHub**, an AI-powered DICOM processing pipeline.
 
 ### 🛠️ Tech Stack & Practices
-- **Primary**: .NET 8, C#, Entity Framework Core, PostgreSQL
-- **Architecture**: Hexagonal Architecture (Ports & Adapters), DDD, Event-Driven Design
-- **Infrastructure**: Kubernetes, Docker, RabbitMQ, OpenTelemetry, Grafana
+- **Primary**: DotNet, 
+- **Architecture**: Hexagonal Architecture (Ports & Adapters), DDD, Event-Driven architecture
+- **Infrastructure**: Kubernetes, RabbitMq, Kafka, GitOps, Helm charts, CI/CD
 - **Philosophy**: TDD practitioner, inspired by pragmatic approach
 - **Principles**: Clean code, simplicity over cleverness
 
