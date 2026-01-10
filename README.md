@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @SylvainJ66
-- 👀 I’m interested in .application development C#, Ruby
-- 🌱 I’m currently learning TDD
-- 💞️ I’m looking to collaborate on all projects I can do something and learn.
+# 👋 Hi, I'm Sylvain
 
-<!---
-SylvainJ66/SylvainJ66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Senior .NET Developer | Medical Imaging & AI | Quantum Computing Enthusiast
+
+### 🚀 What I Do
+I build scalable, production-ready systems with a focus on **medical imaging platforms**. Currently working on **AIHub**, an AI-powered DICOM processing pipeline.
+
+### 🛠️ Tech Stack & Practices
+- **Primary**: .NET 8, C#, Entity Framework Core, PostgreSQL
+- **Architecture**: Hexagonal Architecture (Ports & Adapters), DDD, Event-Driven Design
+- **Infrastructure**: Kubernetes, Docker, RabbitMQ, OpenTelemetry, Grafana
+- **Philosophy**: TDD practitioner, inspired by pragmatic approach
+- **Principles**: Clean code, simplicity over cleverness
+
+### 📫 Let's Connect
+Always happy to discuss architecture, share knowledge, and collaborate on meaningful projects that deliver real business value.
+
