@@ -11,6 +11,7 @@ I build scalable, production-ready systems.
 - **Infrastructure**: Kubernetes, RabbitMq, Kafka, GitOps, Helm charts, CI/CD
 - **Philosophy**: TDD practitioner, inspired by pragmatic approach
 - **Principles**: Clean code, simplicity over cleverness
+- **AI**: Claude code, harness enginering, software factories
 
 ### 📫 Let's Connect
 Always happy to discuss architecture, share knowledge, and collaborate on meaningful projects that deliver real business value.
