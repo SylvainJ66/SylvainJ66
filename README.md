@@ -3,7 +3,7 @@
 ## Senior .NET Developer
 
 ### 🚀 What I Do
-I build scalable, production-ready systems  Currently working on **AIHub**, an AI-powered DICOM processing pipeline.
+I build scalable, production-ready systems.
 
 ### 🛠️ Tech Stack & Practices
 - **Primary**: DotNet, 
