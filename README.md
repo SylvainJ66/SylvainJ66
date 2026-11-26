@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sylvain
 
-## Senior .NET Developer
+## Senior Developer
 
 ### 🚀 What I Do
 I build scalable, production-ready systems.
